@@ -1,0 +1,28 @@
+img{
+    height: 150px;
+    width: 100px;
+    padding: 30px;
+}
+h1{
+    margin: 50px;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+#button-align{
+    margin: 20px;
+}
+#card-align{
+    text-align: center;
+}
+#main-align{
+    margin: 20px;
+    border: 2px black solid;
+    border-radius: 20px;
+    }
+body{
+    background-image: url("https://img.freepik.com/premium-photo/abstract-black-textured-background-with-scratches_130265-12474.jpg");
+}
+h3{
+    margin: 30px;
+}
